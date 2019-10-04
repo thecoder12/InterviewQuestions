@@ -32,3 +32,17 @@ E.g., Hommie => hOMMIE, EditInG => eDITiNg
 Define a function that can receive two integral numbers in string form and compute their sum and then print it in console.
 
 13. 
+Question:
+Write a program which can filter even numbers in a list by using filter function. The list is: [1,2,3,4,5,6,7,8,9,10].
+
+Hints:
+
+Use filter() to filter some elements in a list.
+Use lambda to define anonymous functions.
+
+Solution
+li = [1,2,3,4,5,6,7,8,9,10]
+evenNumbers = filter(lambda x: x%2==0, li)
+print evenNumbers
+
+14. 
