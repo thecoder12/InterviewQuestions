@@ -1,0 +1,63 @@
+1. Problem: Compress a string such that 'AAABCCDDDD' becomes 'A3BC2D4'. Only compress the string if it saves space.
+2. Problem: Implement an algorithm to determine if a string has all unique characters.
+3. Problem: Sort an array of strings so all anagrams are next to each other.
+Input: ['ram', 'act', 'arm', 'bat', 'cat', 'tab']
+Result: ['arm', 'ram', 'act', 'cat', 'bat', 'tab']
+
+4. Find first missing positive integer (>0)
+Input: [3, 4, -1, 1]
+Output: 2
+Input: [1, 2, 0]
+Output: 3
+
+5. Find Peak Element
+A peak element is an element that is greater than its neighbors.
+
+Input: [1, 2, 3, 1]
+Output: 2
+Output explanation: 3 is a peak element and your function should return the index number 2.
+
+Input: [1, 2, 1, 3, 5, 6, 4]
+Output: 1 or 5
+Output explanation: Your function can return either index number 1 where the peak element is 2, or index number 5 where the peak element is 6.
+
+6. Array rotation/shifting
+Rotate array in right (or left) for K places.
+
+Input: [1, 2, 3, 4, 5, 6], 3
+Output: [4, 5, 6, 1, 2, 3]
+
+7. Sort RGB Array
+Given an array of strictly the characters 'R', 'G', and 'B', segregate
+the values of the array so that all the Rs come first, the Gs come second, and the Bs come last.
+You can only swap elements of the array.
+Do this in linear time and in-place.
+Input: ['G', 'B', 'R', 'R', 'B', 'R', 'G']
+Output: ['R', 'R', 'R', 'G', 'G', 'B', 'B']
+
+8. Secret Santa
+Secret Santa is a game in which a group of friends or colleagues exchange Christmas presents anonymously,
+each member of the group being assigned another member for whom to provide a small gift.
+You're given a list of names, make a random pairs (each participant should have another name as pair).
+Return an array with pairs represented as tuples.
+Input: ['a', 'b', 'c']
+Output: This is a nondeterministic algorithm, more solutions exists, here are 2 possible solutions:
+    [('a', 'b'), ('b', 'c'), ('c', 'a')], [('a', 'c'), ('c', 'b'), ('b', 'a')]
+    
+    
+9. Product of Array Except Self
+Given an array nums of n integers where n > 1,
+return an array output such that output[i] is equal to the product of all the elements of nums except nums[i].
+Note: Please solve it without division and in O(n).
+Follow up:
+Could you solve it with constant space complexity?
+(The output array does not count as extra space for the purpose of space complexity analysis.)
+Input: [1, 2, 3, 4]
+Output: [24, 12, 8, 6]
+
+10. Reverse array
+Reverse an array, in constant space and linear time complexity.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Output: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+11. 
