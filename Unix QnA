@@ -1,0 +1,81 @@
+1. list files in directory
+```console
+foo@bar:~$ whoami
+foo
+```
+
+2. how many directories in current folder?
+
+3. what is the IP of google.com
+
+4. What is HA?
+
+5. What is cluster?
+
+6. copy complete folder ?
+
+7. find disk space?
+
+8. list users in OS?
+
+9. find usage of RAM?
+
+10. Find the processes running?
+
+11. HardLink and SoftLink in UNIX
+
+12. chmod & chown?
+
+13. what is "export"?
+
+14. telnet ?
+
+15. check which ports are being used?
+
+16. which unix flavour OS ?
+
+17. run any cmd in background?
+
+18. "watch" cmd?
+
+19. check if the service is running?
+
+20. from "ls -ltrh" we need the 4th column?
+
+21. Find the files which are taking up all the disk space? may be top 10 files?
+
+22. untar file?
+
+23. relative path vs absolute path
+
+24. how much time the system is up?
+
+25. we want to see systemc logs. which file has the logs?
+
+26. what is mount cmd?
+
+27. There are 10 chef-clients running. You want to kill all 10. how will you do it?
+
+28. move file from 1 directory to another
+
+29. which process is taking lot of RAM & CPU?
+
+30. Single line SSH cmd.
+
+31. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
