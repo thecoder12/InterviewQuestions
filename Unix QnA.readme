@@ -1,4 +1,7 @@
 1. list files in directory
-``` ls ```
+```console
+foo@bar:~$ whoami
+foo
+```
 
 2. 
